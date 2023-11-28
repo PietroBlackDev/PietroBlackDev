@@ -10,8 +10,29 @@
 <h2 dir="auto"></h2>
 
 <h4>I'm learning about it:</h4>
+<a href="https://www.php.net/manual/pt_BR/">
+    <img src="https://skillicons.dev/icons?i=php" />
+</a>
 
-[![My Skills](https://skillicons.dev/icons?i=php,html,css,mysql,bootstrap)](https://skillicons.dev)
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" />
+</a>
+
+<a href="https://dev.mysql.com/doc/">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+<a href="https://getbootstrap.com.br/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+</a>
+
+<a href="https://laravel.com/docs/8.x">
+    <img src="https://skillicons.dev/icons?i=laravel" />
+</a>
 
 <h2 dir="auto"></h2>
 
