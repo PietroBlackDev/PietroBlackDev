@@ -34,6 +34,10 @@
     <img src="https://skillicons.dev/icons?i=laravel" />
 </a>
 
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction">
+    <img src="https://skillicons.dev/icons?i=javascript" />
+</a>
+
 <h2 dir="auto"></h2>
 
 <h4>Tools I use:</h4>
@@ -44,10 +48,9 @@
 
 <h4>How to contact me:</h4>
 
-<a href="https://www.linkedin.com/in/pietro-black/" rel="nofollow"><img alt="Linkedin" src="https://camo.githubusercontent.com/1722ae04a80126cb01a64368f6b8b02ddb0c83911032bb1e72b870894e7065d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c696e6b6564696e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-
-
-
+  <a href="https://www.linkedin.com/in/pietro-black/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
 
           
