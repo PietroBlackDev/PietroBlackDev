@@ -5,7 +5,8 @@
 
 <p>• 🏠 I'm from São Roque/SP, Brazil</p>
 <p>• 🧠 Internet Systems student at Fatec São Roque</p>
-<p>• 🏦 Currently Open to Work.</p>
+<p>• 🏦 IT assistant at Hotel Villa Rossa</p>
+<p>•  📱  Looking for an opportunity to work with Mobile</p>
 
 <h2 dir="auto"></h2>
 
@@ -30,19 +31,27 @@
     <img src="https://skillicons.dev/icons?i=bootstrap" />
 </a>
 
-<a href="https://laravel.com/docs/8.x">
-    <img src="https://skillicons.dev/icons?i=laravel" />
+<a href="https://flutter.dev/">
+    <img src="https://skillicons.dev/icons?i=flutter" />
+</a>
+
+<a href="https://dart.dev/docs">
+    <img src="https://skillicons.dev/icons?i=dart" />
 </a>
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction">
     <img src="https://skillicons.dev/icons?i=javascript" />
 </a>
 
+<a href="https://dev.java/learn/">
+    <img src="https://skillicons.dev/icons?i=java" />
+</a>
+
 <h2 dir="auto"></h2>
 
 <h4>Tools I use:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,discord,github,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,discord,github,figma)](https://skillicons.dev)
 
 <h2 dir="auto"></h2>
 
